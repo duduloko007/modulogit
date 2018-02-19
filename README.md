@@ -1,2 +1,1 @@
-Meu primeiro git
-alteracao feita no master
+Meu primeiro git (alterado e atualizado)
